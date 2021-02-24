@@ -1,0 +1,18 @@
+#footer{
+    position: sticky;
+    bottom: 0px;
+    padding-bottom: 0.5rem;
+    padding-top: 0.5rem;
+    background-color: var(--light);
+}
+
+#navbar{
+    position: sticky;
+    top: 0px;
+    z-index: 1;
+}
+
+#exampleInputBody{
+    width: 1080px;
+}
+
